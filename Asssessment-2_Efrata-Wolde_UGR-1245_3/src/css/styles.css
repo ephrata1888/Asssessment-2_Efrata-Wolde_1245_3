@@ -1,0 +1,96 @@
+
+
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 1.6;
+    color:rgba(86, 55, 12, 0.977);
+    background-color: whitesmoke;
+}
+
+header {
+    background-color:rgba(18, 85, 48, 0.986);
+    color: #fff;
+    
+}
+.slogan{
+    font-weight: bold;
+    color: white;
+    font-size: 12px;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h1 .cafe {
+    color:#032703;
+
+}
+
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 12px;
+}
+
+
+nav ul li a{
+    border: 1px solid whitesmoke; 
+}
+
+nav ul li a.active {
+    background-color: rgba(16, 94, 42, 0.84) ;
+}
+
+nav ul li a:hover {
+    background-color:  #01311976;
+}
+
+.container2 {
+    background-color:rgba(18, 85, 48, 0.986);
+}
+
+footer h3 {
+    color:whitesmoke;
+}
+footer p{
+    color:whitesmoke;
+}
+.footer3 nav ul li {
+    color: whitesmoke;
+
+}
+.footer4{
+    background-color: rgba(18, 85, 48, 0.986);}
+.footer4 nav ul li {
+    color: whitesmoke;
+}
+.footer4 nav ul li a.active {
+    color: black;
+}
+
+.sidebar h3{
+    color:black;
+    font-style:bold;
+    font-size: 18px;
+}
+.sidebar ul li p {
+    font-size: 12px; 
+} 
+
+form label{
+    font-weight: bold;
+}
+
+
+form input, form textarea, form button {
+    border: 0.5px solid rgba(18, 85, 48, 0.986);
+    font-size: 16px;
+}
+form button {
+    background-color:rgba(18, 85, 48, 0.986);
+    color:whitesmoke ;
+    cursor: pointer;
+}
